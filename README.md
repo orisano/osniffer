@@ -34,3 +34,9 @@ sniffer.use(async (ctx, next) => {
 });
 sniffer.listen(8080);
 ```
+
+## Author
+Nao YONASHIRO(@orisano)
+
+## License
+MIT
