@@ -36,7 +36,7 @@ sniffer.listen(8080);
 ```
 
 ## Author
-Nao YONASHIRO(@orisano)
+Nao Yonashiro (@orisano)
 
 ## License
 MIT
